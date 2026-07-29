@@ -23,6 +23,9 @@ Find songs similar to what you love — with mood control.
 ## Tech used
 Python, Streamlit, Scikit-learn, Spotipy, Pandas, NumPy
 
+## 🔗 Live Demo
+[Try it here](https://music-mood-recommender-hwdprxa3hkhxfeja2begr9.streamlit.app/)
+
 ## Run locally
 pip install -r requirements.txt
 streamlit run app.py
