@@ -2,6 +2,10 @@
 
 Find songs similar to what you love — with mood control.
 
+## Demo
+
+![Homepage](assets/demo.png)
+
 ## What it does
 - Search any song by name and artist
 - Get 10 similar song recommendations
